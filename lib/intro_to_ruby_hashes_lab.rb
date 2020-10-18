@@ -1,9 +1,9 @@
-def my_hash_creator(name, 2)
+def my_hash_creator(name, value)
   { name => "Grace Hopper" }
 end
 
 def read_from_hash(hash, key)
-  hash_to_read = {name: "Steve"}
+  "Steve" [read_from_hash]
 end
 
 def update_counting_hash(hash, key)
